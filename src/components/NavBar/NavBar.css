@@ -1,0 +1,20 @@
+.navbar{
+    padding-top: 1rem;
+    height: 78px;
+    background: linear-gradient(90deg, hsla(0, 4%, 14%, 1) 0%, hsla(0, 0%, 19%, 1) 100%);
+    display: flex;
+    top: 0;
+    position: sticky;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.navbar a{
+    text-decoration: none;
+    padding: 0 2rem;
+    color: white;
+}
+
+.navbar a:hover{
+    text-decoration: underline;
+}

@@ -1,15 +1,16 @@
 import './App.css';
+import NavBar from './components/NavBar/NavBar.js';
+import Header from './components/Header/Header.js';
+import Projects from './components/Projects/Projects.js';
+import Skills from './components/Skills/Skills.js';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <h1>Lakshay Sharma</h1>
-        
-        <p>
-         Coder | Data Analyst | Fronted Developer
-        </p>
-      </header>
+    <div className="App">    
+      <NavBar />
+      <Header />
+      <Skills />
+      <Projects />
     </div>
   );
 }
