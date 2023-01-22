@@ -1,21 +1,24 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.60d9444d.css",
-    "main.js": "/portfolio/static/js/main.fac412dd.js",
+    "main.css": "/portfolio/static/css/main.5e38576c.css",
+    "main.js": "/portfolio/static/js/main.794446df.js",
     "static/js/496.0320d045.chunk.js": "/portfolio/static/js/496.0320d045.chunk.js",
     "static/media/dip-final-lakshay-short.webm": "/portfolio/static/media/dip-final-lakshay-short.92938125c7aa7b98867a.webm",
     "static/media/modernsite.png": "/portfolio/static/media/modernsite.c3c6ef524961a8c4ccb2.png",
     "static/media/react.png": "/portfolio/static/media/react.81ed438b18e24116794d.png",
+    "static/media/ipl.png": "/portfolio/static/media/ipl.eea47a99b7ae0c155968.png",
     "static/media/python.png": "/portfolio/static/media/python.ce0857834e7aec373708.png",
+    "static/media/Lakshay_new.png": "/portfolio/static/media/Lakshay_new.4e68aa60573c99d76178.png",
     "static/media/javascript.png": "/portfolio/static/media/javascript.266bd9fb2663dcc057b4.png",
+    "static/media/linkedin.svg": "/portfolio/static/media/linkedin.29a596974ce2f7522a5c9a217ae8e9c8.svg",
     "index.html": "/portfolio/index.html",
     "static/media/html.svg": "/portfolio/static/media/html.f318c8b1d5945fa9adc827ae94849cb1.svg",
-    "main.60d9444d.css.map": "/portfolio/static/css/main.60d9444d.css.map",
-    "main.fac412dd.js.map": "/portfolio/static/js/main.fac412dd.js.map",
+    "main.5e38576c.css.map": "/portfolio/static/css/main.5e38576c.css.map",
+    "main.794446df.js.map": "/portfolio/static/js/main.794446df.js.map",
     "496.0320d045.chunk.js.map": "/portfolio/static/js/496.0320d045.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.60d9444d.css",
-    "static/js/main.fac412dd.js"
+    "static/css/main.5e38576c.css",
+    "static/js/main.794446df.js"
   ]
 }
