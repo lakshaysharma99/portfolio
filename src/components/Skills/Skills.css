@@ -1,5 +1,5 @@
 .skills{
-    color: white;
+    color: rgb(173, 173, 173);
     min-height: 50vh;
     margin-top: 80px;
 }
@@ -20,6 +20,7 @@
     width: 100px;
     padding-left: 1rem;
 }
+
 
 @media screen and (max-width: 700px) {
     .skill_images{
