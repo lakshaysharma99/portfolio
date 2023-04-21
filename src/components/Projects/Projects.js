@@ -14,12 +14,8 @@ const Projects = () => {
                         <a href='http://zygomorphous-confus.000webhostapp.com/#wgpt3'><img src={gpt} alt='modern-site' /></a>
                     </div>
                     <div className='card-text'>
-                        <h3>Modern UI Frontend</h3>
-                        <ul>
-                            <li>A landing page created using ReactJS.</li>
-                            <li>Used CSS gradients to give an aesthetic look to the site.</li>
-                            <li>Used CSS media quesries to make the site responsive.</li>
-                        </ul>
+                        <h1>Modern UI Frontend</h1>
+                        <p>A landing page created using ReactJS. Used CSS gradients to give an aesthetic look to the site. Used CSS media quesries to make the site responsive.</p>
                     </div>
                 </div>
                 <div className='project_card'>
@@ -29,12 +25,10 @@ const Projects = () => {
                         </video>
                     </div>
                     <div className='card-text'>
-                        <h3>Hand Gesture Controller</h3>
-                        <ul>
-                            <li>Hand Gesture Contoller made using Python.</li>
-                            <li>Used Python libraries like Numpy, PyAutoGUI, OpenCV.</li>
-                            <li>The image is captured from the camera and hand gesture are tracked to control the game.</li>
-                        </ul>
+                        <h1>Hand Gesture Controller</h1>
+                        <p>
+                            Hand Gesture Contoller made using Python. Used Python libraries like Numpy, PyAutoGUI, OpenCV. The image is captured from the camera and hand gesture are tracked to control the game.
+                        </p>
                     </div>
                 </div>
                 <div className='project_card'>
@@ -42,11 +36,10 @@ const Projects = () => {
                         <a href='https://github.com/lakshaysharma99/EDA-IPL'><img src={ipl} alt='modern-site' /></a>
                     </div>
                     <div className='card-text'>
-                        <h3>EDA on IPL Data</h3>
-                        <ul>
-                            <li>Exploratory data analysis on IPL dataset.</li>
-                            <li>Used Python and its libraries, Numpy, Padas, MatPlotLib.</li>
-                        </ul>
+                        <h1>EDA on IPL Data</h1>
+                        <p>
+                            Exploratory data analysis on IPL dataset. Used Python and its libraries, Numpy, Padas, MatPlotLib.
+                        </p>
                     </div>
                 </div>
             </div>
