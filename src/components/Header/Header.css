@@ -1,33 +1,54 @@
 .app-header {
+  margin-top: 2rem;
   min-height: 80vh;
   display: flex;
-  color: rgb(173, 173, 173);
   flex-direction: row;
   align-items: center;
   justify-content: center;
 }
 
-.app-header img{
+.main_image img{
   border-radius: 50%;
+  border-radius: 60% 40% 30% 70%/60% 30% 70% 40%;
+  border: 3px solid rgb(125, 160, 255);
+  animation: morph 10s ease-in-out infinite;
+}
+
+.header-about h1{
+  font-size: 70px;
 }
 
 .header-img{
-  flex: 0.80;
+  margin-left: 10rem;
+  flex: 1;
+}
+
+h1{
+  color: rgb(40, 40, 40);
+}
+
+.header-about p{
+  color: rgb(139, 139, 139);
+  font-size: 20px;
 }
 
 .header-about{
-  flex: 1.20;
-  font-size: 36px;
-  margin: 0 2rem;
-  line-height: 52px;
-  font-style: italic;
+  flex: 1;
+  font-size: 28px;
+  text-align: right;
+  align-items: right;
+  margin-right: 10rem;
+  font-size: x-large;
 }
 
-.header p{
-  padding: 2rem 4rem;
-  font-size: 32;
-  line-height: 40px;
-  text-align: justify;
+.skill_images{
+  width: 100%;
+}
+
+.skill_images img{
+  height: 50;
+  width: 50px;
+  padding: 0 0.75rem;
 }
   
 
@@ -40,6 +61,27 @@
   .header-about{
     flex: 1.20;
     font-size: 24px;
-    font-style: italic;
+    text-align: center;
+    margin: 0;
+  }
+  .header-about p{
+    padding: 0 5rem;
+  }
+
+  .header-img{
+    justify-content: center;
+    margin: 0;
+  }
+}
+
+@keyframes morph {
+  0% {
+    border-radius: 60% 40% 30% 70%/60% 30% 70% 40%;
+  }
+  50% {
+    border-radius: 30% 60% 70% 40%/50% 60% 30% 60%;
+  }
+  100% {
+    border-radius: 60% 40% 30% 70%/60% 30% 70% 40%;
   }
 }
