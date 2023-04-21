@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.96e168f4.css",
-    "main.js": "/portfolio/static/js/main.6473044e.js",
+    "main.css": "/portfolio/static/css/main.2b6168b5.css",
+    "main.js": "/portfolio/static/js/main.fcf3c966.js",
     "static/js/496.0320d045.chunk.js": "/portfolio/static/js/496.0320d045.chunk.js",
     "static/media/dip-final-lakshay-short.webm": "/portfolio/static/media/dip-final-lakshay-short.92938125c7aa7b98867a.webm",
     "static/media/modernsite.png": "/portfolio/static/media/modernsite.c3c6ef524961a8c4ccb2.png",
@@ -13,12 +13,12 @@
     "static/media/linkedin.svg": "/portfolio/static/media/linkedin.29a596974ce2f7522a5c9a217ae8e9c8.svg",
     "index.html": "/portfolio/index.html",
     "static/media/html.svg": "/portfolio/static/media/html.f318c8b1d5945fa9adc827ae94849cb1.svg",
-    "main.96e168f4.css.map": "/portfolio/static/css/main.96e168f4.css.map",
-    "main.6473044e.js.map": "/portfolio/static/js/main.6473044e.js.map",
+    "main.2b6168b5.css.map": "/portfolio/static/css/main.2b6168b5.css.map",
+    "main.fcf3c966.js.map": "/portfolio/static/js/main.fcf3c966.js.map",
     "496.0320d045.chunk.js.map": "/portfolio/static/js/496.0320d045.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.96e168f4.css",
-    "static/js/main.6473044e.js"
+    "static/css/main.2b6168b5.css",
+    "static/js/main.fcf3c966.js"
   ]
 }
